@@ -1,0 +1,4 @@
+con shadow el ambiente no local es donde es invocada la subrutina pasada
+en deep es en donde esta definida
+DEEP = CADENA ESTATICA
+SHALLOW = CADENA DINAMICA
