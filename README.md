@@ -11,3 +11,10 @@ INTEGRANTES
 
 Ezequiel Masciarelli
 Iván Mindlin
+
+IMPORTANTE
+
+Como utilizamos bootstrap es necesario agregar las librerías en la configuración de la vista principal
+
+JQDeploymentLibrary
+TBSDevelopmentLibrary
